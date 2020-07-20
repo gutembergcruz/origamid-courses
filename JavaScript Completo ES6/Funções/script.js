@@ -1,4 +1,4 @@
-function areaQuadrado(lado) {
+/*function areaQuadrado(lado) {
   return lado * lado;
 }
 
@@ -31,3 +31,50 @@ function corFavorita(cor) {
 addEventListener("click", function () {
   console.log("oi");
 });
+
+function imc2(peso, altura) {
+  const imc = peso / altura ** 2;
+  console.log(imc2);
+}
+
+imc2(20, 1.8);
+console.log(imc2(80, 1.8));
+
+function terceiraIdade(idade) {
+  if (typeof idade !== "number") {
+    return "Informe a sua idade!";
+  } else if (idade >= 60) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+function faltaVisitar(paisesVisitados) {
+  var totaPaises = 193;
+  return `Faltam visitar ${totalPaises - paisesVisitados} paises`;
+}
+console.log(totalPaises);
+
+var profissao = "Designer";
+
+function dados() {
+  var nome = "Berg";
+  var idade = 24;
+  function outrosDados() {
+    var endereco = "Manaus";
+    var idade = 29;
+    return `${nome}, ${idade}, ${endereco}, ${profissao}`;
+  }
+  return outrosDados();
+}
+
+dados();
+outrosDados();
+
+img(80, 1.80);
+
+function img(peso, altura) {
+  const im
+}
+*/
