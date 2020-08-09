@@ -8,6 +8,7 @@
 <p>:white_check_mark: CSS Flexbox <a target="_blank" href="https://www.origamid.com/certificate/14e14adb/"  title="Certificate">🏆</a></p>
 <p>:white_check_mark: UI Design Avançado <a target="_blank" href="https://www.origamid.com/certificate/cfd2884f/"  title="Certificate">🏆</a></p>
 <p>:white_square_button: JavaScript Completo ES6 :hourglass:</p>
+<p>:white_large_square: React Completo</p>
 <p>:white_large_square: UX Design Heurísticas</p>
 <p>:white_large_square: Tipografia Avançada</p>
 <p>:white_large_square: CSS Grid Layout</p>
