@@ -1,16 +1,28 @@
-// Retorne no console todas as imagens do site
-const imagens = document.querySelectorAll('img')
-console.log(imagens)
-// Retorne no console apenas as imagens que começaram com a palavra imagem
-const imagens2 = document.querySelectorAll('[src ^= "imagem"]')
-console.log(imagens2);
-// Selecione todos os links internos (onde o href começa com #)
-const linksInternos = document.querySelectorAll('[href^="#]')
-console.log(linksInternos)
-// Selecione o primeiro h2 dentro de .animais-descricao
-const animaisDescricao = document.querySelector('.animais-descricao');
-const oH2 = animaisDescricao.querySelector('h2');
-console.log(oH2)
-// Selecione o último p do site
-const ultimoParagrafo = document.querySelector('p:last-child')
-console.log(ultimoParagrafo)
+// Mostre no console cada parágrado do site
+const paragrafos = document.querySelectorAll('p');
+let z = 0;
+
+paragrafos.forEach(function () {
+  console.log(paragrafos[z]);
+
+  z++
+});
+// Mostre o texto dos parágrafos no console
+const paragrafos2 = document.getElementsByTagName('p');
+console.log(paragrafos2);
+
+
+// Como corrigir os erros abaixo:
+const imgs = document.querySelectorAll('img');
+
+imgs.forEach((item, index) => {
+  console.log(item, index);
+});
+
+let i = 0;
+imgs.forEach(() => {
+  console.log(i++);
+});
+
+imgs.forEach(() => i++);
+
