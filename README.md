@@ -2,7 +2,7 @@
     <img alt="Origamid" src="Git/banner.png" width="700px" />
 </h1>
 <h2> Origamid Courses</h2>
-<p>👓My progress in UX, UI &amp; Front End studies at EAD 🐺Origamid. Projects and Certificates.🏆</p>
+<p>👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆</p>
 <br>
 <p>:white_check_mark: Web Design Completo <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a>  </p>
 <p>:white_check_mark: CSS Flexbox <a target="_blank" href="https://www.origamid.com/certificate/14e14adb/"  title="Certificate">🏆</a></p>
